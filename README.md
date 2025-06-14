@@ -49,7 +49,11 @@ GitHub screamed at me: “File size too big.”
 So videos live in exile (Google Drive). Ask me or check the cursed links above 👻
 
 ---
-https://drive.google.com/drive/folders/19Fn8KLt7tjIIq6Eo7Ryy9_R4XMOxhqm4?usp=drive_link
+
+## 👁️ You can find it here
+[Check it out](https://drive.google.com/drive/folders/19Fn8KLt7tjIIq6Eo7Ryy9_R4XMOxhqm4?usp=drive_link)
+
+---
 
 > Made by Mandar aka the chaos conductor.  
 > Coding games by day, animating nightmares by night.
